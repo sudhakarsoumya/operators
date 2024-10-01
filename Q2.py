@@ -15,8 +15,7 @@ Sample Input and Output 2:
 35
 78
 65.0
-875.00
-..
+875.00'''
 
 x=float(input())
 y=float(input())
